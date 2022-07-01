@@ -1,0 +1,12 @@
+; __*\*____________
+; ___/\/\achinate__
+; -----------------
+; "The Machiavellian Scheme"
+
+mash> (load "rocking-horse-st.scm")
+0%...10%...20%...30%...40%...50%...60%...70%...80%...91%...100%                 
+#t
+
+mash> ^D
+
+     1366.64 real      1361.75 user         0.07 sys                            
